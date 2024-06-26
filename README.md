@@ -19,4 +19,6 @@ Caso não tenha o interpretador python da microsoft store instalado na máquina.
 
 Aperte ctrl+shift+x e digite python nas buscas de extensões do VS CODE para instalar.
 
-## [Download](https://github.com/jogosdesergioerafael/O_Caminho_do_Guerreiro_beta1.1_versao_vs_code/archive/refs/heads/main.zip)
+## [Download](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_vs_code/archive/refs/heads/main.zip)
+
+

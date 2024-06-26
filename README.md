@@ -1,5 +1,5 @@
 
-![o caminho do guerreiro vs code](https://github.com/jogosdesergioerafael/O_Caminho_do_Guerreiro_beta1.1_versao_vs_code/assets/150600124/e2ff1d37-06f6-4baa-8319-5b3e8fdbd936)
+![Vscode caminho do guerreiro gif](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_vs_code/assets/171747060/654f1fb0-f717-4fc7-8b2f-2c6a4860c5a0)
 
 # Instruções para jogar no vs code
 

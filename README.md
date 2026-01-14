@@ -1,4 +1,4 @@
-
+# Jogo de texto feito em Python O Caminho Do Guerreiro
 ![Vscode caminho do guerreiro gif](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_vs_code/assets/171747060/654f1fb0-f717-4fc7-8b2f-2c6a4860c5a0)
 
 # Instruções para jogar no vs code

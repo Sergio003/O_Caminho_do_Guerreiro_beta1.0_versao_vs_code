@@ -1,5 +1,5 @@
 # 🎮🔥 Jogo de texto O Caminho Do Guerreiro 🔥🎮
-> Trabalho da faculdade valendo 3,0 pontos, nesse trabalho foi solicitado a criação de um jogo de texto<br>
+> Trabalho da faculdade no 1º período valendo 3,0 pontos, nesse trabalho foi solicitado a criação de um jogo de texto<br>
 programado em Python utilizando hardcoded, com muito esforço e dedicação, consegui obter a nota máxima.
 
 
